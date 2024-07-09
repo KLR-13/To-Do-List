@@ -1,0 +1,80 @@
+form {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+input {
+  margin-top: 10px;
+  background-color: rgba(37, 37, 37, 0.534);
+}
+
+body{
+background-image: url(https://us.123rf.com/450wm/zagory/zagory1605/zagory160500038/58467209-sin-fisuras-de-fondo-sobre-el-tema-de-la-tecnología-de-la-información-y-ganar-dinero-en-línea.jpg);
+}
+
+.texto{
+  width: 100px;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+
+.Contenido {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 20px;
+  margin-top: 50px;
+  align-items: center;
+}
+
+.Buttoncheck {
+  background-color: rgb(24, 24, 24);
+  color: white;
+  width: 110px;
+  padding: auto;
+  font-size: large;
+  margin-top: 10px;
+}
+
+
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  align-items: center;
+}
+
+
+button {
+  background-color: rgb(133, 133, 133);
+  color: white;
+  margin-top: 10px;
+
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: -30px;
+  align-items: center;
+}
+
+
+
+li {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  gap: 25px;
+  margin-top: 20px;
+  align-items: center;
+}
+
+#X {
+  background-color: rgb(168, 16, 16);
+}
